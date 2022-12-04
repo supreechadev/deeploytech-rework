@@ -17,6 +17,6 @@ Try to improve deeploytech website, Make it more UX/UI friendly and add translat
 
 - [Demo Link](https://deeploytech-rework-git-main-mnagon.vercel.app/)
 
-## Demo
+## Todos
 
 - Optimized image size
