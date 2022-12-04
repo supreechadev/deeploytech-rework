@@ -1,0 +1,137 @@
+i.icon {
+  width: 1em;
+  height: 1em;
+  color: inherit;
+  position: relative;
+  font-size: inherit;
+  display: inline-block;
+  margin: auto;
+  line-height: inherit;
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-position: 50% 50%;
+  mask-position: 50% 50%;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  background: currentColor;
+  vertical-align: middle;
+}
+
+i.icon.bright {
+  -webkit-mask-image: url(../assets/icons/bright.svg);
+  mask-image: url(../assets/icons/bright.svg);
+}
+
+i.icon.browser-setting {
+  -webkit-mask-image: url(../assets/icons/browser-setting.svg);
+  mask-image: url(../assets/icons/browser-setting.svg);
+}
+
+i.icon.chevron-double-right {
+  -webkit-mask-image: url(../assets/icons/chevron-double-right.svg);
+  mask-image: url(../assets/icons/chevron-double-right.svg);
+}
+
+i.icon.flutter {
+  -webkit-mask-image: url(../assets/icons/flutter.svg);
+  mask-image: url(../assets/icons/flutter.svg);
+}
+
+i.icon.golang {
+  -webkit-mask-image: url(../assets/icons/golang.svg);
+  mask-image: url(../assets/icons/golang.svg);
+}
+
+i.icon.hand-clasp {
+  -webkit-mask-image: url(../assets/icons/hand-clasp.svg);
+  mask-image: url(../assets/icons/hand-clasp.svg);
+}
+
+i.icon.hand-service {
+  -webkit-mask-image: url(../assets/icons/hand-service.svg);
+  mask-image: url(../assets/icons/hand-service.svg);
+}
+
+i.icon.kotlin {
+  -webkit-mask-image: url(../assets/icons/kotlin.svg);
+  mask-image: url(../assets/icons/kotlin.svg);
+}
+
+i.icon.magnifying-chart {
+  -webkit-mask-image: url(../assets/icons/magnifying-chart.svg);
+  mask-image: url(../assets/icons/magnifying-chart.svg);
+}
+
+i.icon.metophone {
+  -webkit-mask-image: url(../assets/icons/metophone.svg);
+  mask-image: url(../assets/icons/metophone.svg);
+}
+
+i.icon.metophone {
+  -webkit-mask-image: url(../assets/icons/metophone.svg);
+  mask-image: url(../assets/icons/metophone.svg);
+}
+
+i.icon.mobile {
+  -webkit-mask-image: url(../assets/icons/mobile.svg);
+  mask-image: url(../assets/icons/mobile.svg);
+}
+
+i.icon.moon {
+  -webkit-mask-image: url(../assets/icons/moon.svg);
+  mask-image: url(../assets/icons/moon.svg);
+}
+
+i.icon.mornitor-setting {
+  -webkit-mask-image: url(../assets/icons/mornitor-setting.svg);
+  mask-image: url(../assets/icons/mornitor-setting.svg);
+}
+
+i.icon.mornitor {
+  -webkit-mask-image: url(../assets/icons/mornitor.svg);
+  mask-image: url(../assets/icons/mornitor.svg);
+}
+
+i.icon.nextjs {
+  -webkit-mask-image: url(../assets/icons/nextjs.svg);
+  mask-image: url(../assets/icons/nextjs.svg);
+}
+
+i.icon.react {
+  -webkit-mask-image: url(../assets/icons/react.svg);
+  mask-image: url(../assets/icons/react.svg);
+}
+
+i.icon.research {
+  -webkit-mask-image: url(../assets/icons/research.svg);
+  mask-image: url(../assets/icons/research.svg);
+}
+
+i.icon.shiny-star {
+  -webkit-mask-image: url(../assets/icons/shiny-star.svg);
+  mask-image: url(../assets/icons/shiny-star.svg);
+}
+i.icon.sun {
+  -webkit-mask-image: url(../assets/icons/sun.svg);
+  mask-image: url(../assets/icons/sun.svg);
+}
+
+i.icon.swift {
+  -webkit-mask-image: url(../assets/icons/swift.svg);
+  mask-image: url(../assets/icons/swift.svg);
+}
+
+i.icon.thumb-up {
+  -webkit-mask-image: url(../assets/icons/thumb-up.svg);
+  mask-image: url(../assets/icons/thumb-up.svg);
+}
+
+i.icon.typescript {
+  -webkit-mask-image: url(../assets/icons/typescript.svg);
+  mask-image: url(../assets/icons/typescript.svg);
+}
+
+i.icon.ux {
+  -webkit-mask-image: url(../assets/icons/ux.svg);
+  mask-image: url(../assets/icons/ux.svg);
+}
